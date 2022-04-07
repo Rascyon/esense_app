@@ -53,9 +53,11 @@ packages:
   esense_flutter:
     dependency: "direct main"
     description:
-      name: esense_flutter
-      url: "https://pub.dartlang.org"
-    source: hosted
+      path: "packages/esense_flutter"
+      ref: HEAD
+      resolved-ref: "23d2eb3490711524ff564c66f1f4d8fe3c7510f9"
+      url: "https://github.com/cph-cachet/flutter-plugins.git"
+    source: git
     version: "0.6.1"
   fake_async:
     dependency: transitive
